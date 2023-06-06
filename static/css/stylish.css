@@ -1,0 +1,44 @@
+ul{
+    list-style: none ;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 10px;
+    background-color: #d7cee1;
+    display: block;
+    color: #2a59bd;
+}
+li a:hover{
+    background-color:purple;
+}
+#gari {
+    background-color: #411a1a;
+    border: 2px dotted;
+    margin: 15px;
+    padding: 15px;
+    text-align: center ;
+}
+#swimmers {
+    background-color: #2a59bd;
+    border: 3px solid ;
+    margin: 40px;
+    padding: 13px;
+    text-align: center;
+}
+#fruits {
+    background-color: #b91cb1;
+    border: 6px double ;
+    margin: 60px;
+    padding: 23px;
+    text-align: center ;
+}
+.FRUITS{
+       background-color: yellow;
+    border: 7px double ;
+    margin: 20px;
+    padding: 30px;
+    text-align: center ;
+}
